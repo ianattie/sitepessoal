@@ -1,0 +1,71 @@
+nav {
+    background-color: #000000;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+
+
+
+
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+ a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+ a:hover {
+    color: #de2e2e;
+}
+}
+
+.playwrite {
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+  }
+.titulo{
+    text-align: center;
+}
+
+a{
+    color: rgb(249, 249, 252);
+    background-color: black;
+}
+a:hover{
+    color: rgb(12, 77, 161);
+
+
+}
+div{
+    background-color: #fdf8f8;
+    border: 3px solid rgb(7, 7, 7);
+    width: 30%;
+    margin: 0 auto;
+    
+    
+}
+
+.infos{
+    margin-left: 100px;
+}
+.linke{
+    margin: 27px;
+}
+.insta{
+    margin: 27px;
+}
+.face{
+    margin: 27px;
+}
+.video{
+    display: block;
+    margin: 0 auto;
+}
